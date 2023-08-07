@@ -1,0 +1,13 @@
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\bin\Debug\Staj - Not defteri uygulaması.exe.config
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\bin\Debug\Staj - Not defteri uygulaması.exe
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\bin\Debug\Staj - Not defteri uygulaması.pdb
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj - Not defteri uygulaması.csprojAssemblyReference.cache
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj___Not_defteri_uygulaması.Form1.resources
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj___Not_defteri_uygulaması.Properties.Resources.resources
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj - Not defteri uygulaması.csproj.GenerateResource.cache
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj - Not defteri uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj - Not defteri uygulaması.exe
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj - Not defteri uygulaması.pdb
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj___Not_defteri_uygulaması.Form2.resources
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj___Not_defteri_uygulaması.Form3.resources
+C:\Users\mertc\source\repos\Staj - Not defteri uygulaması\obj\Debug\Staj___Not_defteri_uygulaması.Form4.resources
